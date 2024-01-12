@@ -1,3 +1,5 @@
+La parte Home funziona regolarmente. La parte Air Pollution ha un problema con l'indirizzo dell'api, comunque avrebbe dovuto creare una tabella coi valori selezionati. La parte Forecast funziona ma non ha stile e dovrebbe essere riorganizzata. Ho usato delle icone direttamente posizionate in assets con un css.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
